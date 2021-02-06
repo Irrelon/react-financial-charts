@@ -1,5 +1,5 @@
 {
-  "name": "react-financial-charts",
+  "name": "@irrelon/react-financial-charts",
   "version": "1.0.1",
   "description": "React charts specific to finance.",
   "main": "./lib/index.js",
@@ -34,16 +34,16 @@
     "compile": "tsc -p tsconfig.json"
   },
   "dependencies": {
-    "@react-financial-charts/annotations": "file:../annotations",
-    "@react-financial-charts/axes": "file:../axes",
-    "@react-financial-charts/coordinates": "file:../coordinates",
-    "@react-financial-charts/core": "file:../core",
-    "@react-financial-charts/indicators": "file:../indicators",
-    "@react-financial-charts/interactive": "file:../interactive",
-    "@react-financial-charts/scales": "file:../scales",
-    "@react-financial-charts/series": "file:../series",
-    "@react-financial-charts/tooltip": "file:../tooltip",
-    "@react-financial-charts/utils": "file:../utils"
+    "@irrelon/react-financial-charts-annotations": "file:../annotations",
+    "@irrelon/react-financial-charts-axes": "file:../axes",
+    "@irrelon/react-financial-charts-coordinates": "file:../coordinates",
+    "@irrelon/react-financial-charts-core": "file:../core",
+    "@irrelon/react-financial-charts-indicators": "file:../indicators",
+    "@irrelon/react-financial-charts-interactive": "file:../interactive",
+    "@irrelon/react-financial-charts-scales": "file:../scales",
+    "@irrelon/react-financial-charts-series": "file:../series",
+    "@irrelon/react-financial-charts-tooltip": "file:../tooltip",
+    "@irrelon/react-financial-charts-utils": "file:../utils"
   },
   "peerDependencies": {
     "react": "^16.0.0",

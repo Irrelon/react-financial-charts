@@ -1,5 +1,5 @@
 {
-  "name": "@react-financial-charts/core",
+  "name": "@irrelon/react-financial-charts-core",
   "version": "1.0.1",
   "description": "Core code for react-financial-charts",
   "publishConfig": {

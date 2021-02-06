@@ -5,7 +5,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [1.0.1](https://github.com/reactivemarkets/react-financial-charts/compare/v1.0.0...v1.0.1) (2021-01-01)
 
-**Note:** Version bump only for package @react-financial-charts/annotations
+**Note:** Version bump only for package @irrelon/react-financial-charts-annotations
 
 
 
@@ -24,7 +24,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [1.0.0-alpha.16](https://github.com/reactivemarkets/react-financial-charts/compare/v1.0.0-alpha.15...v1.0.0-alpha.16) (2020-09-04)
 
-**Note:** Version bump only for package @react-financial-charts/annotations
+**Note:** Version bump only for package @irrelon/react-financial-charts-annotations
 
 
 
@@ -32,7 +32,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [1.0.0-alpha.15](https://github.com/reactivemarkets/react-financial-charts/compare/v1.0.0-alpha.14...v1.0.0-alpha.15) (2020-09-03)
 
-**Note:** Version bump only for package @react-financial-charts/annotations
+**Note:** Version bump only for package @irrelon/react-financial-charts-annotations
 
 
 
@@ -40,7 +40,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [1.0.0-alpha.14](https://github.com/reactivemarkets/react-financial-charts/compare/v1.0.0-alpha.13...v1.0.0-alpha.14) (2020-09-02)
 
-**Note:** Version bump only for package @react-financial-charts/annotations
+**Note:** Version bump only for package @irrelon/react-financial-charts-annotations
 
 
 
@@ -59,7 +59,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [1.0.0-alpha.10](https://github.com/reactivemarkets/react-financial-charts/compare/v1.0.0-alpha.9...v1.0.0-alpha.10) (2020-08-28)
 
-**Note:** Version bump only for package @react-financial-charts/annotations
+**Note:** Version bump only for package @irrelon/react-financial-charts-annotations
 
 
 
@@ -105,7 +105,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [1.0.0-alpha.2](https://github.com/reactivemarkets/react-financial-charts/compare/v1.0.0-alpha.1...v1.0.0-alpha.2) (2020-07-15)
 
-**Note:** Version bump only for package @react-financial-charts/annotations
+**Note:** Version bump only for package @irrelon/react-financial-charts-annotations
 
 
 
@@ -113,7 +113,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [1.0.0-alpha.1](https://github.com/reactivemarkets/react-financial-charts/compare/v1.0.0-alpha.0...v1.0.0-alpha.1) (2020-07-10)
 
-**Note:** Version bump only for package @react-financial-charts/annotations
+**Note:** Version bump only for package @irrelon/react-financial-charts-annotations
 
 
 

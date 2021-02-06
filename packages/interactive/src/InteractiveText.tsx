@@ -1,6 +1,6 @@
 import * as PropTypes from "prop-types";
 import * as React from "react";
-import { isDefined, noop, getMouseCanvas, GenericChartComponent } from "@react-financial-charts/core";
+import { isDefined, noop, getMouseCanvas, GenericChartComponent } from "@irrelon/react-financial-charts-core";
 import { HoverTextNearMouse } from "./components";
 import { getValueFromOverride, isHoverForInteractiveType, saveNodeType, terminate } from "./utils";
 import { EachText } from "./wrapper";

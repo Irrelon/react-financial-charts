@@ -1,5 +1,5 @@
 {
-  "name": "@react-financial-charts/indicators",
+  "name": "@irrelon/react-financial-charts-indicators",
   "version": "1.0.0",
   "description": "Indicators for react-financial-charts",
   "publishConfig": {

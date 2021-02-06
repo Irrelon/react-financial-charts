@@ -1,5 +1,5 @@
 {
-  "name": "@react-financial-charts/utils",
+  "name": "@irrelon/react-financial-charts-utils",
   "version": "1.0.0",
   "description": "Utils for react-financial-charts",
   "publishConfig": {

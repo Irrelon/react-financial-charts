@@ -8,8 +8,8 @@ import {
     last,
     noop,
     strokeDashTypes,
-} from "@react-financial-charts/core";
-import { drawOnCanvas } from "./EdgeCoordinateV3";
+} from "@irrelon/react-financial-charts-core";
+import { drawOnCanvas } from "./EdgeCoordinateV4";
 
 export interface EdgeIndicatorProps {
     readonly arrowWidth?: number;
@@ -31,6 +31,7 @@ export interface EdgeIndicatorProps {
     readonly type?: "horizontal";
     readonly yAccessor: (data: any) => number | undefined;
     readonly yAxisPad?: number;
+    readonly yLabel?: string;
 }
 
 export class EdgeIndicator extends React.Component<EdgeIndicatorProps> {
@@ -57,6 +58,7 @@ export class EdgeIndicator extends React.Component<EdgeIndicatorProps> {
         strokeWidth: 1,
         textFill: "#FFFFFF",
         type: "horizontal",
+        yLabel: ""
     };
 
     public render() {
@@ -115,6 +117,7 @@ export class EdgeIndicator extends React.Component<EdgeIndicatorProps> {
             rectWidth,
             arrowWidth,
             stroke,
+            yLabel
         } = this.props;
 
         const {
@@ -138,6 +141,7 @@ export class EdgeIndicator extends React.Component<EdgeIndicatorProps> {
         const edgeX = edgeAt === "left" ? left - yAxisPad : right + yAxisPad;
 
         return {
+            label: yLabel,
             coordinate: displayFormat(yValue),
             show: true,
             type: edgeType,

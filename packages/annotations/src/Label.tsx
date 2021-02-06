@@ -1,4 +1,4 @@
-import { GenericComponent, functor } from "@react-financial-charts/core";
+import { GenericComponent, functor } from "@irrelon/react-financial-charts-core";
 import { ScaleContinuousNumeric } from "d3-scale";
 import * as PropTypes from "prop-types";
 import * as React from "react";

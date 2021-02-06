@@ -1,7 +1,7 @@
 import { max, sum } from "d3-array";
 import * as PropTypes from "prop-types";
 import * as React from "react";
-import { first, isDefined, GenericComponent, last } from "@react-financial-charts/core";
+import { first, isDefined, GenericComponent, last } from "@irrelon/react-financial-charts-core";
 
 const PADDING = 4;
 const X = 8;

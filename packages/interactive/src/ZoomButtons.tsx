@@ -1,4 +1,4 @@
-import { last } from "@react-financial-charts/core";
+import { last } from "@irrelon/react-financial-charts-core";
 import { interpolateNumber } from "d3-interpolate";
 import * as PropTypes from "prop-types";
 import * as React from "react";

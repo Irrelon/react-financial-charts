@@ -1,7 +1,7 @@
 import { format } from "d3-format";
 import * as PropTypes from "prop-types";
 import * as React from "react";
-import { isDefined, strokeDashTypes } from "@react-financial-charts/core";
+import { isDefined, strokeDashTypes } from "@irrelon/react-financial-charts-core";
 import { HoverTextNearMouse } from "./components";
 import { getValueFromOverride, isHoverForInteractiveType, saveNodeType, terminate } from "./utils";
 import { EachInteractiveYCoordinate } from "./wrapper";

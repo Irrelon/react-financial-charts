@@ -1,5 +1,5 @@
 {
-  "name": "@react-financial-charts/scales",
+  "name": "@irrelon/react-financial-charts-scales",
   "version": "1.0.1",
   "description": "Scales for react-financial-charts",
   "publishConfig": {
@@ -38,7 +38,7 @@
     "watch": "tsc -p tsconfig.json --watch --preserveWatchOutput"
   },
   "dependencies": {
-    "@react-financial-charts/core": "file:../core",
+    "@irrelon/react-financial-charts-core": "file:../core",
     "d3-array": "^2.9.1",
     "d3-scale": "^3.2.3",
     "d3-time-format": "^3.0.0"

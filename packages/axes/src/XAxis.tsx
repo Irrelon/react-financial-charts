@@ -1,4 +1,4 @@
-import { strokeDashTypes } from "@react-financial-charts/core";
+import { strokeDashTypes } from "@irrelon/react-financial-charts-core";
 import * as PropTypes from "prop-types";
 import * as React from "react";
 import { Axis } from "./Axis";

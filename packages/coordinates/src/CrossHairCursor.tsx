@@ -5,7 +5,7 @@ import {
     strokeDashTypes,
     GenericComponent,
     getMouseCanvas,
-} from "@react-financial-charts/core";
+} from "@irrelon/react-financial-charts-core";
 
 const defaultCustomX = (props: CrossHairCursorProps, moreProps: any) => {
     const { xScale, xAccessor, currentItem, mouseXY } = moreProps;

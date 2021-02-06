@@ -1,5 +1,5 @@
 {
-  "name": "@react-financial-charts/annotations",
+  "name": "@irrelon/react-financial-charts-annotations",
   "version": "1.0.1",
   "description": "Annotations for react-financial-charts",
   "publishConfig": {
@@ -42,7 +42,7 @@
     "react-dom": "^16.0.0"
   },
   "dependencies": {
-    "@react-financial-charts/core": "file:../core",
+    "@irrelon/react-financial-charts-core": "file:../core",
     "@types/d3-scale": "^3.2.2",
     "prop-types": "^15.7.2"
   }
