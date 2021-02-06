@@ -58,7 +58,7 @@ export class EdgeIndicator extends React.Component<EdgeIndicatorProps> {
         strokeWidth: 1,
         textFill: "#FFFFFF",
         type: "horizontal",
-        yLabel: ""
+        yLabel: "",
     };
 
     public render() {
@@ -117,7 +117,7 @@ export class EdgeIndicator extends React.Component<EdgeIndicatorProps> {
             rectWidth,
             arrowWidth,
             stroke,
-            yLabel
+            yLabel,
         } = this.props;
 
         const {

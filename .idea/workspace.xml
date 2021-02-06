@@ -2,135 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f730f980-ba55-4604-8d21-ed6e54c75318" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/packages/coordinates/src/EdgeCoordinateV4.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/annotations/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/packages/annotations/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/annotations/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/annotations/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/annotations/src/Annotate.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/annotations/src/Annotate.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/annotations/src/BarAnnotation.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/annotations/src/BarAnnotation.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/annotations/src/Label.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/annotations/src/Label.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/annotations/src/LabelAnnotation.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/annotations/src/LabelAnnotation.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/annotations/src/SvgPathAnnotation.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/annotations/src/SvgPathAnnotation.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/axes/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/packages/axes/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/axes/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/axes/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/axes/src/Axis.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/axes/src/Axis.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/axes/src/AxisZoomCapture.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/axes/src/AxisZoomCapture.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/axes/src/XAxis.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/axes/src/XAxis.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/axes/src/YAxis.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/axes/src/YAxis.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/charts/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/charts/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/charts/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/charts/src/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/coordinates/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/packages/coordinates/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/coordinates/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/coordinates/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/coordinates/src/CrossHairCursor.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/coordinates/src/CrossHairCursor.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/coordinates/src/CurrentCoordinate.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/coordinates/src/CurrentCoordinate.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/coordinates/src/Cursor.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/coordinates/src/Cursor.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/coordinates/src/EdgeCoordinateV3.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/coordinates/src/EdgeCoordinateV3.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/coordinates/src/EdgeCoordinateV4.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/coordinates/src/EdgeCoordinateV4.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/coordinates/src/EdgeIndicator.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/coordinates/src/EdgeIndicator.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/coordinates/src/MouseCoordinateX.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/coordinates/src/MouseCoordinateX.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/coordinates/src/MouseCoordinateXV2.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/coordinates/src/MouseCoordinateXV2.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/coordinates/src/MouseCoordinateY.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/coordinates/src/MouseCoordinateY.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/coordinates/src/PriceCoordinate.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/coordinates/src/PriceCoordinate.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/core/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/packages/core/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/core/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/core/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/indicators/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/packages/indicators/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/indicators/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/indicators/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/Brush.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/Brush.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/ClickCallback.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/ClickCallback.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/DrawingObjectSelector.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/DrawingObjectSelector.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/EquidistantChannel.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/EquidistantChannel.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/FibonacciRetracement.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/FibonacciRetracement.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/GannFan.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/GannFan.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/InteractiveText.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/InteractiveText.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/InteractiveYCoordinate.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/InteractiveYCoordinate.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/StandardDeviationChannel.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/StandardDeviationChannel.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/TrendLine.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/TrendLine.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/ZoomButtons.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/ZoomButtons.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/components/ChannelWithArea.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/components/ChannelWithArea.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/components/ClickableCircle.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/components/ClickableCircle.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/components/ClickableShape.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/components/ClickableShape.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/components/GannFan.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/components/GannFan.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/components/HoverTextNearMouse.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/components/HoverTextNearMouse.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/components/InteractiveStraightLine.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/components/InteractiveStraightLine.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/components/InteractiveText.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/components/InteractiveText.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/components/InteractiveYCoordinate.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/components/InteractiveYCoordinate.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/components/LinearRegressionChannelWithArea.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/components/LinearRegressionChannelWithArea.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/components/MouseLocationIndicator.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/components/MouseLocationIndicator.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/components/Text.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/components/Text.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/utils.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/wrapper/EachEquidistantChannel.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/wrapper/EachEquidistantChannel.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/wrapper/EachFibRetracement.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/wrapper/EachFibRetracement.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/wrapper/EachGannFan.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/wrapper/EachGannFan.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/wrapper/EachInteractiveYCoordinate.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/wrapper/EachInteractiveYCoordinate.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/wrapper/EachLinearRegressionChannel.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/wrapper/EachLinearRegressionChannel.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/wrapper/EachText.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/wrapper/EachText.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/src/wrapper/EachTrendLine.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/src/wrapper/EachTrendLine.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/scales/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/packages/scales/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/scales/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/scales/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/scales/src/discontinuousTimeScaleProvider.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/scales/src/discontinuousTimeScaleProvider.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/series/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/packages/series/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/series/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/series/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/series/src/AlternatingFillAreaSeries.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/series/src/AlternatingFillAreaSeries.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/series/src/AreaOnlySeries.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/series/src/AreaOnlySeries.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/series/src/AreaSeries.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/series/src/AreaSeries.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/series/src/BarSeries.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/series/src/BarSeries.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/series/src/CandlestickSeries.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/series/src/CandlestickSeries.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/series/src/ElderRaySeries.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/series/src/ElderRaySeries.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/series/src/GroupedBarSeries.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/series/src/GroupedBarSeries.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/series/src/KagiSeries.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/series/src/KagiSeries.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/series/src/LineSeries.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/series/src/LineSeries.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/series/src/OHLCSeries.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/series/src/OHLCSeries.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/series/src/OverlayBarSeries.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/series/src/OverlayBarSeries.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/series/src/PointAndFigureSeries.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/series/src/PointAndFigureSeries.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/series/src/RSISeries.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/series/src/RSISeries.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/series/src/RenkoSeries.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/series/src/RenkoSeries.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/series/src/SARSeries.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/series/src/SARSeries.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/series/src/SVGComponent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/series/src/SVGComponent.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/series/src/ScatterSeries.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/series/src/ScatterSeries.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/series/src/StackedBarSeries.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/series/src/StackedBarSeries.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/series/src/StraightLine.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/series/src/StraightLine.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/series/src/VolumeProfileSeries.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/series/src/VolumeProfileSeries.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/series/src/markers/CircleMarker.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/series/src/markers/CircleMarker.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/series/src/markers/SquareMarker.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/series/src/markers/SquareMarker.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/series/src/markers/TriangleMarker.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/series/src/markers/TriangleMarker.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/stories/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stories/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/stories/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stories/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/stories/src/features/annotated/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stories/src/features/annotated/index.stories.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/stories/src/features/coordinates/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stories/src/features/coordinates/index.stories.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/stories/src/features/interaction/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stories/src/features/interaction/index.stories.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/stories/src/indicators/atr/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stories/src/indicators/atr/index.stories.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/stories/src/indicators/ema/EmaIndicator.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stories/src/indicators/ema/EmaIndicator.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/stories/src/indicators/forceIndex/ForceIndicator.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stories/src/indicators/forceIndex/ForceIndicator.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/stories/src/indicators/forceIndex/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stories/src/indicators/forceIndex/index.stories.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/stories/src/indicators/macd/MacdIndicator.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stories/src/indicators/macd/MacdIndicator.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/stories/src/indicators/rsi/RsiIndicator.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stories/src/indicators/rsi/RsiIndicator.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/stories/src/indicators/sar/SarIndicator.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stories/src/indicators/sar/SarIndicator.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/stories/src/series/area/BasicAreaSeries.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stories/src/series/area/BasicAreaSeries.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/stories/src/series/bar/BasicBarSeries.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stories/src/series/bar/BasicBarSeries.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/stories/src/series/baseline/BasicBaselineSeries.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stories/src/series/baseline/BasicBaselineSeries.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/stories/src/series/candlestick/BasicCandlestick.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stories/src/series/candlestick/BasicCandlestick.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/stories/src/series/heikinAshi/BasicHeikinAshiSeries.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stories/src/series/heikinAshi/BasicHeikinAshiSeries.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/stories/src/series/kagi/BasicKagiSeries.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stories/src/series/kagi/BasicKagiSeries.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/stories/src/series/line/BasicLineSeries.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stories/src/series/line/BasicLineSeries.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/stories/src/series/ohlc/BasicOHLCSeries.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stories/src/series/ohlc/BasicOHLCSeries.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/stories/src/series/pointAndFigure/BasicPointAndFigureSeries.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stories/src/series/pointAndFigure/BasicPointAndFigureSeries.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/stories/src/series/renko/BasicRenkoSeries.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stories/src/series/renko/BasicRenkoSeries.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/stories/src/series/scatter/BasicScatterSeries.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stories/src/series/scatter/BasicScatterSeries.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/tooltip/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/packages/tooltip/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/tooltip/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/tooltip/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/tooltip/src/BollingerBandTooltip.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/tooltip/src/BollingerBandTooltip.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/tooltip/src/GroupTooltip.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/tooltip/src/GroupTooltip.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/tooltip/src/HoverTooltip.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/tooltip/src/HoverTooltip.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/tooltip/src/MACDTooltip.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/tooltip/src/MACDTooltip.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/tooltip/src/MovingAverageTooltip.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/tooltip/src/MovingAverageTooltip.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/tooltip/src/OHLCTooltip.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/tooltip/src/OHLCTooltip.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/tooltip/src/RSITooltip.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/tooltip/src/RSITooltip.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/tooltip/src/SingleValueTooltip.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/tooltip/src/SingleValueTooltip.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/tooltip/src/StochasticTooltip.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/tooltip/src/StochasticTooltip.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/utils/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/packages/utils/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/utils/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/utils/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,17 +45,51 @@
       <option name="presentableId" value="Default" />
       <updated>1612559204085</updated>
       <workItem from="1612559205217" duration="1677000" />
-      <workItem from="1612615899760" duration="4200000" />
+      <workItem from="1612615899760" duration="5758000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated repo namespace so we can build our own version">
+      <created>1612621433893</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612621433893</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Updated repo namespace so we can build our own version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated repo namespace so we can build our own version" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="4087" y="105" width="586" height="548" key="find.popup" timestamp="1612621249851">
+    <state x="3960" y="-30" key="CommitChangelistDialog2" timestamp="1612621433615">
       <screen x="3840" y="-569" width="1080" height="1897" />
     </state>
-    <state x="4087" y="105" width="586" height="548" key="find.popup/921.-1057.1920.1057/1920.23.1920.1057/-1080.-563.1080.1897/0.23.1920.987/3840.-569.1080.1897@3840.-569.1080.1897" timestamp="1612621249851" />
+    <state x="3960" y="-30" key="CommitChangelistDialog2/921.-1057.1920.1057/1920.23.1920.1057/-1080.-563.1080.1897/0.23.1920.987/3840.-569.1080.1897@3840.-569.1080.1897" timestamp="1612621433615" />
+    <state width="1059" height="567" key="GridCell.Tab.0.bottom" timestamp="1612621315021">
+      <screen x="3840" y="-569" width="1080" height="1897" />
+    </state>
+    <state width="1059" height="567" key="GridCell.Tab.0.bottom/921.-1057.1920.1057/1920.23.1920.1057/-1080.-563.1080.1897/0.23.1920.987/3840.-569.1080.1897@3840.-569.1080.1897" timestamp="1612621315021" />
+    <state width="1059" height="567" key="GridCell.Tab.0.center" timestamp="1612621315021">
+      <screen x="3840" y="-569" width="1080" height="1897" />
+    </state>
+    <state width="1059" height="567" key="GridCell.Tab.0.center/921.-1057.1920.1057/1920.23.1920.1057/-1080.-563.1080.1897/0.23.1920.987/3840.-569.1080.1897@3840.-569.1080.1897" timestamp="1612621315021" />
+    <state width="1059" height="567" key="GridCell.Tab.0.left" timestamp="1612621315020">
+      <screen x="3840" y="-569" width="1080" height="1897" />
+    </state>
+    <state width="1059" height="567" key="GridCell.Tab.0.left/921.-1057.1920.1057/1920.23.1920.1057/-1080.-563.1080.1897/0.23.1920.987/3840.-569.1080.1897@3840.-569.1080.1897" timestamp="1612621315020" />
+    <state width="1059" height="567" key="GridCell.Tab.0.right" timestamp="1612621315021">
+      <screen x="3840" y="-569" width="1080" height="1897" />
+    </state>
+    <state width="1059" height="567" key="GridCell.Tab.0.right/921.-1057.1920.1057/1920.23.1920.1057/-1080.-563.1080.1897/0.23.1920.987/3840.-569.1080.1897@3840.-569.1080.1897" timestamp="1612621315021" />
+    <state x="3858" y="-104" width="1050" height="951" key="find.popup" timestamp="1612621528653">
+      <screen x="3840" y="-569" width="1080" height="1897" />
+    </state>
+    <state x="3858" y="-104" width="1050" height="951" key="find.popup/921.-1057.1920.1057/1920.23.1920.1057/-1080.-563.1080.1897/0.23.1920.987/3840.-569.1080.1897@3840.-569.1080.1897" timestamp="1612621528653" />
   </component>
 </project>

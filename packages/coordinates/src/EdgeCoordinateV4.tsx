@@ -89,6 +89,7 @@ export const renderSVG = (props: any) => {
 
 const helper = (props: any) => {
     const {
+        label,
         coordinate: displayCoordinate,
         show,
         type,
@@ -120,7 +121,10 @@ const helper = (props: any) => {
 
     let coordinateBase;
     let coordinate;
-    if (displayCoordinate !== undefined) {
+
+    const displayLabel = label ? label : displayCoordinate;
+
+    if (displayLabel !== undefined) {
         const textAnchor = "middle";
 
         let edgeXRect;
@@ -159,7 +163,7 @@ const helper = (props: any) => {
             fontFamily,
             fontSize,
             textFill,
-            displayCoordinate,
+            displayCoordinate: displayLabel,
         };
     }
 
@@ -183,14 +187,15 @@ const helper = (props: any) => {
 };
 
 export const drawOnCanvas = (ctx: CanvasRenderingContext2D, props: any) => {
-    const { coordinate, fitToText, fontSize, fontFamily, rectWidth } = props;
+    const { label, coordinate, fitToText, fontSize, fontFamily, rectWidth } = props;
 
+    const displayLabel = label ? label : coordinate;
     ctx.font = `${fontSize}px ${fontFamily}`;
     ctx.textBaseline = "middle";
 
     let width = rectWidth;
     if (fitToText) {
-        width = Math.round(ctx.measureText(coordinate).width + 10);
+        width = Math.round(ctx.measureText(displayLabel).width + 10);
     }
 
     const edge = helper({ ...props, rectWidth: width });
