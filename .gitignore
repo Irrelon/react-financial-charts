@@ -65,3 +65,4 @@ dump.rdb
 
 # ignore mac files
 .DS_Store
+.idea

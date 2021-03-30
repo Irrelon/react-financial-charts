@@ -83,6 +83,7 @@
     "typescript": "^4.1.3"
   },
   "dependencies": {
+    "@irrelon/react-financial-charts": "file:packages/charts",
     "@irrelon/react-financial-charts-annotations": "file:packages/annotations",
     "@irrelon/react-financial-charts-axes": "file:packages/axes",
     "@irrelon/react-financial-charts-coordinates": "file:packages/coordinates",
@@ -94,6 +95,6 @@
     "@irrelon/react-financial-charts-stories": "file:packages/stories",
     "@irrelon/react-financial-charts-tooltip": "file:packages/tooltip",
     "@irrelon/react-financial-charts-utils": "file:packages/utils",
-    "@irrelon/react-financial-charts": "file:packages/charts"
+    "@octokit/core": "^3.3.1"
   }
 }
