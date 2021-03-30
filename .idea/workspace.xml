@@ -1,49 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f730f980-ba55-4604-8d21-ed6e54c75318" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" beforeDir="false" afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/annotations/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/packages/annotations/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/annotations/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/packages/annotations/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/annotations/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/annotations/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/axes/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/packages/axes/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/axes/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/packages/axes/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/axes/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/axes/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/charts/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/packages/charts/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/charts/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/packages/charts/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/charts/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/charts/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/coordinates/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/packages/coordinates/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/coordinates/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/packages/coordinates/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/coordinates/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/coordinates/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/core/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/packages/core/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/core/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/packages/core/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/core/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/core/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/indicators/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/packages/indicators/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/indicators/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/packages/indicators/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/indicators/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/indicators/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/interactive/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/interactive/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/scales/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/packages/scales/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/scales/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/packages/scales/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/scales/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/scales/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/series/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/packages/series/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/series/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/packages/series/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/series/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/series/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/stories/.storybook/manager.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stories/.storybook/manager.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/stories/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stories/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/stories/src/data/withOHLCData.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stories/src/data/withOHLCData.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/tooltip/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/packages/tooltip/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/tooltip/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/packages/tooltip/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/tooltip/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/tooltip/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/utils/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/packages/utils/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/utils/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/packages/utils/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/utils/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/utils/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/core/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/core/src/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,18 +86,37 @@
       <option name="project" value="LOCAL" />
       <updated>1612623175082</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Export whole library">
+      <created>1617119011644</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617119011644</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Updated repo namespace so we can build our own version" />
     <MESSAGE value="Allow a custom label to be displayed on an edge indicator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Allow a custom label to be displayed on an edge indicator" />
+    <MESSAGE value="Export whole library" />
+    <option name="LAST_COMMIT_MESSAGE" value="Export whole library" />
   </component>
   <component name="WindowStateProjectService">
     <state x="264" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615392023158">
@@ -130,10 +127,15 @@
       <screen x="0" y="23" width="1920" height="987" />
     </state>
     <state x="706" y="378" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/921.-1057.1920.1057/1920.23.1920.1057/-1080.-563.1080.1897/0.23.1920.987/3840.-569.1080.1897@0.23.1920.987" timestamp="1617117075972" />
-    <state x="3924" y="-30" key="CommitChangelistDialog2" timestamp="1612623174975">
-      <screen x="3840" y="-569" width="1080" height="1897" />
+    <state x="149" y="191" key="CommitChangelistDialog2" timestamp="1617119011531">
+      <screen x="0" y="23" width="1920" height="987" />
     </state>
+    <state x="149" y="191" key="CommitChangelistDialog2/921.-1057.1920.1057/1920.23.1920.1057/-1080.-563.1080.1897/0.23.1920.987/3840.-569.1080.1897@0.23.1920.987" timestamp="1617119011531" />
     <state x="3924" y="-30" key="CommitChangelistDialog2/921.-1057.1920.1057/1920.23.1920.1057/-1080.-563.1080.1897/0.23.1920.987/3840.-569.1080.1897@3840.-569.1080.1897" timestamp="1612623174975" />
+    <state x="100" y="123" width="1720" height="787" key="DiffContextDialog" timestamp="1617119299569">
+      <screen x="0" y="23" width="1920" height="987" />
+    </state>
+    <state x="100" y="123" width="1720" height="787" key="DiffContextDialog/921.-1057.1920.1057/1920.23.1920.1057/-1080.-563.1080.1897/0.23.1920.987/3840.-569.1080.1897@0.23.1920.987" timestamp="1617119299569" />
     <state width="1059" height="567" key="GridCell.Tab.0.bottom" timestamp="1612621315021">
       <screen x="3840" y="-569" width="1080" height="1897" />
     </state>
@@ -150,6 +152,10 @@
       <screen x="3840" y="-569" width="1080" height="1897" />
     </state>
     <state width="1059" height="567" key="GridCell.Tab.0.right/921.-1057.1920.1057/1920.23.1920.1057/-1080.-563.1080.1897/0.23.1920.987/3840.-569.1080.1897@3840.-569.1080.1897" timestamp="1612621315021" />
+    <state x="680" y="226" key="RollbackChangesDialog" timestamp="1617119246486">
+      <screen x="0" y="23" width="1920" height="987" />
+    </state>
+    <state x="680" y="226" key="RollbackChangesDialog/921.-1057.1920.1057/1920.23.1920.1057/-1080.-563.1080.1897/0.23.1920.987/3840.-569.1080.1897@0.23.1920.987" timestamp="1617119246486" />
     <state x="32" y="265" width="1867" height="548" key="find.popup" timestamp="1617117140954">
       <screen x="0" y="23" width="1920" height="987" />
     </state>
