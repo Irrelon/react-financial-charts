@@ -1,6 +1,6 @@
 {
   "name": "@irrelon/react-financial-charts-utils",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Utils for react-financial-charts",
   "publishConfig": {
     "access": "public"
